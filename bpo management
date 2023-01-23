@@ -1,0 +1,20 @@
+Bpo management system
+import java.util.Vector;
+
+public class customer_hrt {
+
+  public Integer name;
+
+  public Integer address;
+
+  public Integer phonenumber;
+
+    public Vector  mydatabase hr;
+
+  public void newOperation() {
+  }
+
+}
+Class
+ 
+
