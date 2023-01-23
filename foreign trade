@@ -1,0 +1,24 @@
+Foreign trade management
+import java.util.Vector;
+
+public class adminstratertraceorder {
+
+  public Integer name;
+
+  public Integer id;
+
+    public Vector  mytrader;
+    public Vector  myitem;
+
+  public void bill() {
+  }
+
+  public void traceorder() {
+  }
+
+  public void paybill() {
+  }
+
+}
+Class diagram
+ 
