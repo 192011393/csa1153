@@ -1,0 +1,23 @@
+e-commerce registration system
+
+import java.util.Vector;
+
+public class customer {
+
+  public Integer adress;
+
+  private Integer ment;
+
+    public Vector  mydelivery;
+    public Vector  myorder;
+    public Vector  mypayment;
+    public Vector  myseller;
+
+  public void update() {
+  }
+
+}
+
+
+Class diagram
+ 
